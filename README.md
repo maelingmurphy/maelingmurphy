@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maeling and I'm a software engineer in the U.S. 
+My name is Maeling and I'm a full stack software engineer in the U.S. 
 
 ## Featured Projects
 ### Homeschool Journal: https://homeschool-journal.herokuapp.com/
