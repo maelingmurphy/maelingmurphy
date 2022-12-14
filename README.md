@@ -3,7 +3,7 @@
 My name is Maeling and I'm a full stack software engineer in the U.S. 
 
 ## Featured Projects
-### Homeschool Journal: [(Link to repo)(https://github.com/maelingmurphy/homeschool-journal)
+### Homeschool Journal: [(Link to repo)](https://github.com/maelingmurphy/homeschool-journal)
 A CRUD web app that enables homeschooling facilitators to log activities and attendance for students 
 ![7 21 21-display-activities-homepage-desktop](https://user-images.githubusercontent.com/13966892/126577340-45012351-90a3-434a-a70c-dc6b3aa26884.jpg)
 
